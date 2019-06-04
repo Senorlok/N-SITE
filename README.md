@@ -4,25 +4,19 @@ This is the default format by عماد
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is website formating syntax, for example:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+###Dr. Nagham's interests are:
 
-1. Numbered
-2. List
+1. Gym
+2. Inche
 
-**Bold** and _Italic_ and `Code` text
+**Here is some bold text for Dr Nagham** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
